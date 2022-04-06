@@ -186,7 +186,7 @@ MENÚ MÓVIL
 
 <div class="menuMovil">
 	
-	<ul class="p-0 m-0 py-4 d-flex justify-content-center">	
+	<!-- <ul class="p-0 m-0 py-4 d-flex justify-content-center">	
 		
 		<li>
 			<i class="fas fa-times lead text-white mr-5"></i>
@@ -230,16 +230,16 @@ MENÚ MÓVIL
 
 		</div>
 
-	</div>
+	</div> -->
 
 	<ul class="nav flex-column text-center mt-3">
 						
 		<li class="nav-item py-3">
-			<a class="nav-link text-white" href="#cursos">Cursos</a>
+			<a class="nav-link text-white" href="#cursos">Beneficios</a>
 		</li>
 
 		<li class="nav-item py-3">
-			<a class="nav-link text-white" href="#nosotros">Nosotros</a>
+			<a class="nav-link text-white" href="#nosotros">Objetivos</a>
 		</li>
 
 		<li class="nav-item py-3">
@@ -251,15 +251,15 @@ MENÚ MÓVIL
 		</li>
 
 		<li class="nav-item py-3">
-			<a class="nav-link text-white" href="#faq">FAQ</a>
+			<a class="nav-link text-white" href="#faq">Preguntas</a>
 		</li>
 
-		<li class="nav-item py-3">
+		<!-- <li class="nav-item py-3">
 			<a class="nav-link text-white" href="#">Blog</a>
-		</li>
+		</li> -->
 
 		<li class="nav-item py-3">
-			<a class="nav-link text-white" href="#contactenos">Contáctenos</a>
+			<a class="nav-link text-white" href="#contactenos">Contacto</a>
 		</li>
 
 	</ul>
